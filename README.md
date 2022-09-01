@@ -4,7 +4,7 @@ I tried to develop a Real Time Video Calling web application built using the fol
 
 - Django  <img src="https://alternative.me/media/256/django-icon-2jqi6c39eg9fnfmv-c.png" width=20px height=20px align=center>
 - Python <img src="https://tse3.mm.bing.net/th?id=OIP.CYpqc79M1jl94xw__TzDiQHaHa&pid=Api&P=0&w=300&h=300" width=20px height=20px align=center>
-- HTML <img src="https://maxcdn.icons8.com/Share/icon/Logos/html_51600.png" width=20px height=20px align=center>
+- HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width=20px height=20px align=center>
 - CSS <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width=15px height=20px align=center>
 - JavaScript <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=20px height=20px align=center>
 - WEBRTC(for p2p communication) <img src="https://styles.redditmedia.com/t5_2unw6/styles/communityIcon_3qc66h3yt5u01.png" width=25px height=25px align=center>
